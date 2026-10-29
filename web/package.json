@@ -14,7 +14,7 @@
     "diff": "^8.0.3",
     "framer-motion": "^12.34.0",
     "lucide-react": "^0.564.0",
-    "next": "16.1.6",
+    "next": "^16.4.1",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "rehype-highlight": "^7.0.2",
@@ -36,6 +36,11 @@
     "typescript": "^5"
   },
   "overrides": {
-    "nanoid": "3.3.18"
+    "nanoid": "3.3.18",
+    "baseline-browser-mapping": "2.11.0",
+    "esbuild": "0.28.1",
+    "postcss": "8.5.23",
+    "sharp": "0.35.5",
+    "source-map-js": "1.2.2"
   }
 }
